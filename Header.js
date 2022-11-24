@@ -13,7 +13,7 @@ export const Header = () => {
 
     return(
         <div style={headerStyle}>
-            <h1>Devops Assigment 2</h1>
+            <h1>Devops123</h1>
         </div>
     )
 }
